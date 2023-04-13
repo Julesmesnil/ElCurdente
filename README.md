@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Ultranoir](https://www.ultranoir.com)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Three JS**
 
 - 👨‍💻 All of my projects are available at [https://julesmesnil.fr](https://julesmesnil.fr)
 
